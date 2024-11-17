@@ -2,9 +2,14 @@
 
 NFT Marketplace is an innovative platform for buying and selling Non-Fungible Tokens (NFTs). Developed during an internship, this project showcases the integration of various libraries and APIs to create a seamless user experience in the NFT space.
 
-## Live Demo
-
-You can view the live application here: [NFT Marketplace](https://makram-internship.vercel.app/)
+## Project Highlights
+- **Dynamic NFT Display**: Features responsive carousels and grid layouts to showcase NFTs dynamically, using **React Slick** and **Slick Carousel** for engaging presentations.
+- **Seamless User Authentication**: Implements secure user authentication through **Firebase**, ensuring a safe environment for buyers and sellers.
+- **Real-Time Updates**: Leverages Firebase's real-time database to reflect instant updates in NFT listings, purchases, and user activity.
+- **Interactive Animations**: Integrates **AOS (Animate On Scroll)** to deliver smooth scrolling animations, enhancing the visual appeal of the platform.
+- **Customizable Iconography**: Uses **React Icons** to provide a professional and cohesive interface.
+- **API Integration**: Utilizes **Axios** for efficient HTTP requests, allowing smooth communication between the frontend and backend.
+- **Responsive and Accessible Design**: Ensures compatibility across devices with a responsive layout that adapts to various screen sizes.
 
 ## Technologies Used
 
@@ -26,18 +31,3 @@ This project was developed using the following technologies:
 - Smooth animations and transitions to enhance the user experience.
 - Responsive design that works seamlessly across devices.
 - Integration with Firebase for real-time data updates and storage.
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js (version 14 or later)
-- Firebase project with Firestore and authentication enabled
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/nft-marketplace.git
-   cd nft-marketplace

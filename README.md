@@ -7,7 +7,6 @@ NFT Marketplace is an innovative platform for buying and selling Non-Fungible To
 - **Seamless User Authentication**: Implements secure user authentication through **Firebase**, ensuring a safe environment for buyers and sellers.
 - **Real-Time Updates**: Leverages Firebase's real-time database to reflect instant updates in NFT listings, purchases, and user activity.
 - **Interactive Animations**: Integrates **AOS (Animate On Scroll)** to deliver smooth scrolling animations, enhancing the visual appeal of the platform.
-- **Customizable Iconography**: Uses **React Icons** to provide a professional and cohesive interface.
 - **API Integration**: Utilizes **Axios** for efficient HTTP requests, allowing smooth communication between the frontend and backend.
 - **Responsive and Accessible Design**: Ensures compatibility across devices with a responsive layout that adapts to various screen sizes.
 
@@ -20,9 +19,6 @@ This project was developed using the following technologies:
 - **Firebase**: For backend services, including authentication and database.
 - **Axios**: For making HTTP requests to APIs.
 - **AOS (Animate On Scroll)**: For adding animations while scrolling.
-- **React Icons**: For scalable and customizable icons.
-- **React Slick**: For creating responsive carousels.
-- **Slick Carousel**: A carousel component to display NFTs in an engaging manner.
 
 ## Features
 
@@ -30,4 +26,3 @@ This project was developed using the following technologies:
 - User-friendly interface for browsing, purchasing, and listing NFTs.
 - Smooth animations and transitions to enhance the user experience.
 - Responsive design that works seamlessly across devices.
-- Integration with Firebase for real-time data updates and storage.

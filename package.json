@@ -13,7 +13,7 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
     "react-owl-carousel": "^2.3.3",
-    "react-router-dom": "^6.2.2",
+    "react-router-dom": "^6.28.0",
     "react-scripts": "5.0.0",
     "react-slick": "^0.30.2",
     "shimmer-effects-react": "^1.0.4",

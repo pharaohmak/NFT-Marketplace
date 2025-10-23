@@ -24,7 +24,7 @@
 ## 📸 Screenshots
 
 <!-- Optional: Add images here -->
-<!-- ![Screenshot 1](./screenshots/home.png) -->
+![Screenshot 1](./NFT-Marketplace.png)
 
 ## 📦 Installation
 

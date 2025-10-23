@@ -31,7 +31,7 @@
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/nft-marketplace.git
-cd nft-marketplace
+git clone https://github.com/pharaohmak/NFT-Marketplace.git
+cd NFT-Marketplace
 npm install
 npm start
